@@ -17,3 +17,4 @@ Note: This is a static page and does not include any backend functionality. The 
 - CSS Tricks: Centering in CSS: A Complete Guide - A helpful guide for centering elements in CSS.
 # License
 - This project is licensed under the MIT License - see the `LICENSE` file for details.
+![Untitled](https://github.com/spyweiar/login_page/assets/131190203/045345e7-d199-47d6-a7e4-bea0e663340f)
